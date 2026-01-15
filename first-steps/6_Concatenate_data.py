@@ -1,0 +1,5 @@
+fist_name = str(input())
+last_name = str(input())
+age = int(input())
+town = str(input())
+print(f"You are {fist_name} {last_name}, a {age}-years old person from {town}.")
